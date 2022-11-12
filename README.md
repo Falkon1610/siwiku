@@ -1,8 +1,9 @@
+![Github-100](https://user-images.githubusercontent.com/56666072/201453421-ba3b88b6-5d6f-42a3-80fb-b71150376462.jpg)
+
 Hi, We're from Group 2 👋
 
 # SIWIKU
 Siwiku adalah sebuah Mobile App yang dibuat dengan Bahasa Pemrograman Java. App ini memiliki kegunaan sebagai media publikasi dan sarana informasi tempat wisata khususnya di Kuningan
-![Github-100](https://user-images.githubusercontent.com/56666072/201453421-ba3b88b6-5d6f-42a3-80fb-b71150376462.jpg)
 
 
 # Anggota Kelompok 2:
